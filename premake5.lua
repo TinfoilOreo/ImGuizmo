@@ -12,6 +12,10 @@ project "ImGuizmo"
   files {
    "ImCurveEdit.h",
    "ImCurveEdit.cpp",
+   "ImGradient.h",
+   "ImGradient.cpp",
+   "ImGuizmo.h",
+   "ImGuizmo.cpp",
   }
 
   filter "system:windows"
