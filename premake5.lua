@@ -10,7 +10,8 @@ project "ImGuizmo"
   }
 
   files {
-    
+   "ImCurveEdit.h",
+   "ImCurveEdit.cpp",
   }
 
   filter "system:windows"
