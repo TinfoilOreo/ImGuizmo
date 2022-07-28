@@ -16,6 +16,8 @@ project "ImGuizmo"
    "ImGradient.cpp",
    "ImGuizmo.h",
    "ImGuizmo.cpp",
+   "ImSequencer.h",
+   "ImSequencer.cpp"
   }
 
   filter "system:windows"
